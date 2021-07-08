@@ -14,8 +14,7 @@
 - 4.BootStrap v4.3
 - 5.JQuery v3.3.1
 - 6.popper.js
-- 7.restaurant.json
-- 8.express-handlebars 5.3.2
+- 7.express-handlebars 5.3.2
 ## 安裝 Installing
 
 ## Installation
